@@ -2,6 +2,7 @@
 {
     private static void Main(string[] args)
     {
+        Console.WriteLine("-----------------");
         Console.WriteLine("What is your name?");
         Console.WriteLine("-----------------");
         var name = Console.ReadLine();
